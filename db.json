@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "title": "BBB",
+      "author": "BBB",
+      "email": "harwindersingh+fan@zapbuild.com",
+      "id": 10
+    },
+    {
+      "title": "CCC",
+      "author": "CCC",
+      "email": "harwindersingh+fan@zapbuild.com",
+      "id": 11
+    },
+    {
+      "title": "DDD",
+      "author": "DDD",
+      "email": "harwindersingh+fan@zapbuild.com",
+      "id": 12
+    },
+    {
+      "title": "ASDASd",
+      "author": "asdf",
+      "email": "harwindersingh@zapbuild.com",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
